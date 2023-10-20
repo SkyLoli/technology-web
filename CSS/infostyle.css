@@ -1,0 +1,32 @@
+.container {
+    max-width: 1400px;
+    height: 936px;
+    margin: 0 auto;
+    /* background-color: brown; */
+}
+
+.info {
+    margin-top: 4.5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* border: 1px solid black; */
+    margin: 5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 70%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
